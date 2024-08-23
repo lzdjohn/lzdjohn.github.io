@@ -27,7 +27,7 @@ When people are in TikTok, we dont want to touch the smartphone and want the sma
 
 3. Temporal Action Detection based on WiFi CSI & IMU
 
-![gg](/images/tad.png)
+![gg](/images/tad.jpg)
 
 
 Future Work
