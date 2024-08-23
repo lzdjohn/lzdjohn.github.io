@@ -23,7 +23,7 @@ Done Research Projects
 
 When people are in TikTok, we dont want to touch the smartphone and want the smartphone to sense the human willings to across the air. During my internship at oppo inc. 
 
-![gg](/images/ultra.jpg)
+![gg](/images/ult.jpg)
 
 3. Temporal Action Detection based on WiFi CSI & IMU
 
