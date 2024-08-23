@@ -16,7 +16,8 @@ I am a rising third-year master's student in Electronic Information at the Unive
 Done Research Projects
 ======
 1. Infrared Video Human Action Recognition
-During the period of 
+
+[gg](Sit.png)
 
 3. Real-Time Ultrasound Gesture Recognition
 When people are in TikTok, we dont want to touch the smartphone and want the smartphone to sense the human willings to across the air. During my internship at oppo inc. 
