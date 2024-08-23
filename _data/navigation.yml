@@ -6,13 +6,13 @@
 
 main:
   - title: "IR Video HAR"
-    url: /markdown/
+    url: /publications/
 
   - title: "UltraSound GR"
-    url: /markdown/    
+    url: /talks/    
 
   - title: "WiFi&IMU TAD"
-    url: /markdown/    
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
