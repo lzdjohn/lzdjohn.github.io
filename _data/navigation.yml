@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Proj. 1"
+  - title: "IR Video HAR"
     url: /publications/
 
-  - title: "Proj. 2"
+  - title: "UltraSound GR"
     url: /talks/    
 
-  - title: "Proj. 3"
+  - title: "WiFi&IMU TAD"
     url: /teaching/    
     
   # - title: "Portfolio"
