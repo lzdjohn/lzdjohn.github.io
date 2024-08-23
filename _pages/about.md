@@ -17,7 +17,7 @@ Done Research Projects
 ======
 1. Infrared Video Human Action Recognition
 
-[gg](Sit.png)
+[gg](/image/Sit.png)
 
 3. Real-Time Ultrasound Gesture Recognition
 When people are in TikTok, we dont want to touch the smartphone and want the smartphone to sense the human willings to across the air. During my internship at oppo inc. 
