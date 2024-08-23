@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "IR Video HAR"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,3 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+![gg](images/Walk.png)
+![gg](images/Sit.png)
+![gg](images/Fall.png)
+![gg](images/Squat.png)
