@@ -18,6 +18,7 @@ Done Research Projects
 1. Infrared Video Human Action Recognition
 
 [gg](/images/Sit.png)
+![gg](/images/Sit.png)
 
 3. Real-Time Ultrasound Gesture Recognition
 
