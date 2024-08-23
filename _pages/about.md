@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhendong. This is the homepage simply introduces myself and my previous research projects. 
+Hi, I am Zhendong. This homepage introduces myself and my previous research projects. 
 
 Biography
 ======
@@ -16,12 +16,13 @@ I am a rising third-year master's student in Electronic Information at the Unive
 Done Research Projects
 ======
 1. Infrared Video Human Action Recognition
+During the period of 
 
+3. Real-Time Ultrasound Gesture Recognition
+When people are in TikTok, we dont want to touch the smartphone and want the smartphone to sense the human willings to across the air. During my internship at oppo inc. 
 
-2. Real-Time Ultrasound Gesture Recognition
+4. Temporal Action Detection based on WiFi CSI & IMU
 
-
-3. Temporal Action Detection
 
 Future Work
 ======
