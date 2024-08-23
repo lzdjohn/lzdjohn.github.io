@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![gg](images/Walk.png)
-![gg](images/Sit.png)
-![gg](images/Fall.png)
-![gg](images/Squat.png)
+![gg](Walk.png)
+![gg](Sit.png)
+![gg](Fall.png)
+![gg](Squat.png)
