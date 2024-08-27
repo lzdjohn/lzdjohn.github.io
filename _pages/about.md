@@ -19,7 +19,7 @@ Temporal Action Detection in WiFi CSI & IMU
 
 ![TAD model outputs](/images/tad.jpg)
 
-![Error Analysis](/images/error.pdf)
+![Error Analysis](/images/error.jpg)
 
 
 
