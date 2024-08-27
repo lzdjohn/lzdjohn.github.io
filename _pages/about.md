@@ -17,9 +17,9 @@ Research Projects
 ======
 Temporal Action Detection in WiFi CSI & IMU
 
-![TAD model outputs](/images/tad.jpg){width=80%}
+![TAD model outputs](/images/tad.jpg)
 
-![Error Analysis](/images/error.jpg){width=80%}
+![Error Analysis](/images/error.jpg)
 
 | Model    | mAP_0.3 | mAP_0.4 | mAP_0.5 | mAP_0.6 | mAP_0.7 | **mAP_avg** | GFlops | Time/ms |
 |----------|---------|---------|---------|---------|---------|-------------|--------|---------|
