@@ -11,26 +11,18 @@ Hi, I am Zhendong. This homepage introduces myself and my previous research proj
 
 Biography
 ======
-I am a rising third-year master's student in Electronic Information at the University of Electronic Science and Technology of China, advised by Professor Le Zhang. My research focuses on wireless sensing and human-centric action recognition. I had developed a model for long-term recorded signal in MS.C. Additionally, I am actively exploring advancements in wireless based localization. My future goal is to create a multi-modality model for temporal action detection and localization using ambient sensors that can be deployed on human–computer interaction devices.
+I am a rising third-year master's student in Electronic Information Engineering at the University of Electronic Sci. and Tech. of China, advised by Professor Le Zhang. My research focuses on ubiquitous computing, wireless sensing and human action analysis. I had developed a model for untrimmed, long-term signal's temporal action detection. Additionally, I am actively exploring advancements in indoor localization. 
 
-Done Research Projects
+Research Projects
 ======
-1. Infrared Video Human Action Recognition
-
-![gg](/images/Fall.png)
-
-2. Real-Time Ultrasound Gesture Recognition
-
-When people are in TikTok, we dont want to touch the smartphone and want the smartphone to sense the human willings to across the air. During my internship at oppo inc. 
-
-![gg](/images/ut.jpg)
-
-3. Temporal Action Detection based on WiFi CSI & IMU
+Temporal Action Detection in WiFi CSI & IMU
 
 ![gg](/images/tad.jpg)
+
+
 
 
 Future Work
 ======
 
-The use of Temporal Action Detection is 单一，I want to combine the use of TAD with indoor/outdoor localization. In this way we can get more useful information from a period of signal.
+The application of Temporal Action Detection (TAD) is currently limited. I am interested in combining TAD with other practical researches to create a multi-modal model for ambient intelligence that can be integrated into human–computer interaction devices.
