@@ -17,8 +17,9 @@ Research Projects
 ======
 Temporal Action Detection in WiFi CSI & IMU
 
-![gg](/images/tad.jpg)
+![TAD model outputs](/images/tad.jpg)
 
+![Error Analysis](/images/error.jpg)
 
 
 
