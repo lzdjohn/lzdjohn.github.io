@@ -13,6 +13,10 @@ Biography
 ======
 I am a rising third-year master's student in Electronic Information Engineering at the University of Electronic Sci. and Tech. of China, advised by Professor Le Zhang. My research focuses on ubiquitous computing, wireless sensing and human action analysis. I had developed a model for untrimmed, long-term signal's temporal action detection. Additionally, I am actively exploring advancements in indoor localization. 
 
+---
+我是CS PhD。在此之前，我在电子科技大学AVC2 Lab完成了硕士学位，掌握着时间序列分析和计算机视觉的知识。我的研究兴趣在AIoT领域，具体来说它聚焦于两个方面：（1）开发高可用性的环境感知算法。（2）开发高效、长期人类行为理解算法。我的研究可以实现普适的人机交互，智能健康等应用。
+---
+
 Research Projects
 ======
 Temporal Action Detection in WiFi CSI & IMU
